@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Mohammad Sabour 👋</h1>
 
-<!--
-**MOHAMMADSABOUR210/MOHAMMADSABOUR210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Computer Engineering Student | 👨‍💻 Passionate about Data Engineering, Machine Learning & Deep Learning  
+📍 Tehran, Iran | 🌐 GitHub: @MOHAMMADSABOUR210  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Undergraduate student in Computer Engineering at Bu-Ali Sina University (Class of 2024)
+- 🧠 Passionate about data, intelligent systems, and large-scale processing
+- 📊 Currently focused on learning Apache Spark, Kafka, and distributed data systems
+- 🔬 I learn through hands-on projects and enjoy solving real-world problems
+- 📚 Consistent self-learner committed to daily progress and continuous improvement
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL  
+- **Frameworks & Libraries:** PyTorch, scikit-learn  
+- **Data Tools:** Apache Spark, Pandas  
+- **Other Technologies:** Git, Linux, Flask  
+- **Currently Learning:** Apache Kafka, Big Data Engineering Concepts
+
+---
+
+### 🧩 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Tennis_YOLO](https://github.com/MOHAMMADSABOUR210/Tennis_YOLO) | Automatic tennis match analysis using YOLOv8 | PyTorch, YOLO |
+| [StackOverflow API](https://github.com/MOHAMMADSABOUR210/StackOverflow-API) | RESTful API to search StackOverflow questions | Python, Flask |
+| [Coin_Meme](https://github.com/MOHAMMADSABOUR210/Coin_Meme) | Meme coin trading system with chat and wallet | Django, SQLite |
+
+
+---
+
+### 🎯 My Goals
+
+- Master deep learning architectures and scalable data systems  
+- Build practical and open-source projects in ML and Data Engineering  
+- Continuously enhance my technical and conceptual skills by solving real-world challenges
+
+---
+
+### 📫 Contact Me
+
+- Email: m210saboor@gmail.com  
+- GitHub: [github.com/MOHAMMADSABOUR210](https://github.com/MOHAMMADSABOUR210)
+
+---
+
+> 🧠 I believe in deep learning, real data, and lifelong learning.  
+> Always open to new challenges, innovative ideas, and technical growth.
