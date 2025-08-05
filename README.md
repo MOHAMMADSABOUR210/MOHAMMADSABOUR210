@@ -32,7 +32,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Tennis_YOLO](https://github.com/MOHAMMADSABOUR210/tennis) | Automatic tennis match analysis using YOLOv8 | PyTorch, YOLO |
-| [StackOverflow API](https://github.com/MOHAMMADSABOUR210/StackOverflow-API) | RESTful API to search StackOverflow questions | Python, Flask |
+| [StackOverflow API](https://github.com/MOHAMMADSABOUR210/StackOverflow_Api) | RESTful API to search StackOverflow questions | Python, Flask |
 | [Coin_Meme](https://github.com/MOHAMMADSABOUR210/Coin_Meme) | Meme coin trading system with chat and wallet | Django, SQLite |
 | [Power Consumption Analysis](https://github.com/MOHAMMADSABOUR210/power_consumption_spark) | Energy usage analysis and prediction using Apache Spark | PySpark, Apache Spark |
 
