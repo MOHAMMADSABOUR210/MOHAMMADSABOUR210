@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Undergraduate student in Computer Engineering at Bu-Ali Sina University (Class of 2024)
+- 🎓 graduate student in Computer Engineering at Bu-Ali Sina University (Class of 2024)
 - 🧠 Passionate about data, intelligent systems, and large-scale processing
 - 📊 Currently focused on learning Apache Spark, Kafka, and distributed data systems
 - 🔬 I learn through hands-on projects and enjoy solving real-world problems
